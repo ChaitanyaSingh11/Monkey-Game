@@ -1,5 +1,6 @@
 html, body {
-  margin: 0;
+  margin-left: 300px;
+  margin-top: 200px;
   padding: 0;
 }
 canvas {
